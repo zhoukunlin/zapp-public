@@ -2,7 +2,7 @@
 <browserconfig>
     <msapplication>
         <tile>
-            <square150x150logo src="/Users/zhoukunlin/实践项目/zapp/SVG/mstile-150x150.png"/>
+            <square150x150logo src="/public/logo192.png"/>
             <TileColor>#da532c</TileColor>
         </tile>
     </msapplication>
